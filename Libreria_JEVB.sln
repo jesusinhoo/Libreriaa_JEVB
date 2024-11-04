@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria_JEVB", "Libreria_JEVB.csproj", "{D9EA93C0-0811-4ADA-9E32-6ED02D524E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EA93C0-0811-4ADA-9E32-6ED02D524E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EA93C0-0811-4ADA-9E32-6ED02D524E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EA93C0-0811-4ADA-9E32-6ED02D524E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EA93C0-0811-4ADA-9E32-6ED02D524E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CC982E-8FB3-4CC7-BE62-86BD6EC148BE}
+	EndGlobalSection
+EndGlobal
